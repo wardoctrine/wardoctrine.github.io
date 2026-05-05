@@ -1,0 +1,28 @@
+baseURL = "https://yourusername.github.io/wardoctrine/"
+languageCode = "en-us"
+title = "War Doctrine"
+theme = "PaperMod"
+paginate = 10
+
+[params]
+  author = "War Doctrine"
+  description = "Untold military history stories. Battles, decisions, and the people history forgot."
+  defaultTheme = "dark"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[params.homeInfoParams]
+  Title = "War Doctrine"
+  Content = "Untold military history. Every story history forgot."
+
+[[params.socialIcons]]
+  name = "youtube"
+  url = "https://youtube.com/@WarDoctrineHQ"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
