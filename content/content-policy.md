@@ -65,4 +65,4 @@ This site complies with [Google AdSense Program Policies](https://support.google
 - Not designed to harass or demean individuals or groups
 - Not in violation of copyright
 
-If you believe any content on this site violates these standards, contact us at **[wardoctrinehq@gmail.com](mailto:wardoctrinehq@gmail.com)**.
+If you believe any content on this site violates these standards, contact us at **[wardoctrinehq@gmail.com](mailto:wardoctrine1@gmail.com)**.

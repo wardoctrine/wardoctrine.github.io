@@ -79,7 +79,7 @@ If you are located in the European Economic Area (EEA), United Kingdom, or Calif
 
 Google's advertising services on this site are subject to Google's EU User Consent Policy. Where required, consent for cookies and data processing will be requested before advertising is displayed.
 
-For data requests or concerns, contact us at **[wardoctrinehq@gmail.com](mailto:wardoctrinehq@gmail.com)**.
+For data requests or concerns, contact us at **[wardoctrinehq@gmail.com](mailto:wardoctrine1@gmail.com)**.
 
 ---
 
@@ -99,4 +99,4 @@ We may update this Privacy Policy from time to time. Changes will be reflected i
 
 For any privacy-related questions or requests:
 
-📧 **[wardoctrinehq@gmail.com](mailto:wardoctrinehq@gmail.com)**
+📧 **[wardoctrinehq@gmail.com](mailto:wardoctrine1@gmail.com)**

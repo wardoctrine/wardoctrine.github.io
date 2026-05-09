@@ -41,7 +41,7 @@ Think of the Shorts as the trailer. This site is the full film.
 
 For questions, corrections, story tips, or collaboration inquiries:
 
-📧 **[wardoctrinehq@gmail.com](mailto:wardoctrinehq@gmail.com)**
+📧 **[wardoctrinehq@gmail.com](mailto:wardoctrine1@gmail.com)**
 
 If you spot a factual error in any article, please reach out. Corrections are taken seriously and published transparently.
 
