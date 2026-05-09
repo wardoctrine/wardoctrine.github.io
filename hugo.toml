@@ -3,6 +3,7 @@ locale = "en-us"
 title = "War Doctrine"
 theme = "PaperMod"
 paginate = 10
+enableRobotsTXT = true
 
 # Required for PaperMod Fuse.js search (see theme wiki Features → Search Page)
 [outputs]
@@ -30,3 +31,30 @@ paginate = 10
   category = "categories"
   tag = "tags"
   series = "series"
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "privacy"
+  name = "Privacy"
+  url = "/privacy-policy/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "content-policy"
+  name = "Content policy"
+  url = "/content-policy/"
+  weight = 40
+
+[params.footer]
+  text = "[About](/about/) · [Privacy Policy](/privacy-policy/) · [Content policy](/content-policy/)"

@@ -131,7 +131,11 @@ Hitler's order was to erase Warsaw from history.
 
 ---
 
-*Sources: Rare Historical Photos, Warsaw Rising Museum, UNESCO World Heritage Centre*
+### Sources & further reading
+
+- [Rare Historical Photos](https://rarehistoricalphotos.com/)
+- [Museum of Warsaw Uprising — 1944.pl](https://www.1944.pl/en/)
+- [UNESCO — Historic Centre of Warsaw](https://whc.unesco.org/en/list/30/)
 
 ---
 

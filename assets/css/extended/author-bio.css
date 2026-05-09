@@ -1,0 +1,21 @@
+.author-bio {
+    margin-top: 2rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--border);
+    font-size: 0.925rem;
+    line-height: 1.5;
+    color: var(--secondary);
+}
+
+.author-bio__title {
+    margin: 0 0 0.35rem;
+}
+
+.author-bio__contact {
+    margin: 0;
+}
+
+.author-bio a {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}

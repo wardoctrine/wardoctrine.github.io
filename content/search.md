@@ -7,5 +7,5 @@ menu:
   main:
     identifier: search
     name: Search
-    weight: 30
+    weight: 50
 ---

@@ -1,0 +1,7 @@
+{{- if and (eq .Section "posts") (not (.Param "hideAuthorBio")) }}
+<div class="author-bio" role="note" aria-label="About the publisher">
+    <p class="author-bio__title"><strong>War Doctrine</strong> covers overlooked military history with documentary framing — independent research and cited sources.</p>
+    <p class="author-bio__contact"><a href="{{ "about/" | absURL }}">About</a>
+        · <a href="mailto:wardoctrinehq@gmail.com">wardoctrinehq@gmail.com</a></p>
+</div>
+{{- end }}
