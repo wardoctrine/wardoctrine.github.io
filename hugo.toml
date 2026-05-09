@@ -4,6 +4,10 @@ title = "War Doctrine"
 theme = "PaperMod"
 paginate = 10
 
+# Required for PaperMod Fuse.js search (see theme wiki Features → Search Page)
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
   author = "War Doctrine"
   description = "Untold military history stories. Battles, decisions, and the people history forgot."

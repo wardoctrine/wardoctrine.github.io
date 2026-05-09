@@ -51,7 +51,7 @@ Every city destroyed by war faces the same impossible question: where do you sta
 
 You need records. Blueprints. Photographs. Architectural drawings. Documentation of every street, every building facade, every roofline and window frame.
 
-Warsaw had almost none of it. Around 70 to 80% of libraries were carefully burned by the Brandkommandos.  The archives were gone. Most photographs were destroyed. The people who remembered the city in detail were dead or scattered across a broken continent.
+Warsaw had almost none of it. Around 70 to 80% of libraries were carefully burned by the Brandkommandos. The archives were gone. Most photographs were destroyed. The people who remembered the city in detail were dead or scattered across a broken continent.
 
 Polish architects stood in front of mountains of rubble with almost nothing to guide them.
 
